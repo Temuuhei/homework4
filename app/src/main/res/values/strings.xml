@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework4</string>
+    <string name="sign_in_title" />
+    <string name="forgot_password" />
+    <string name="sign_in" />
+    <string name="dont_have" />
+    <string name="new_account" />
+    <string name="email" />
+    <string name="password" />
+</resources>
